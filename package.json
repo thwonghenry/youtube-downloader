@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.1",
+    "query-string": "^5.0.0"
+  }
+}
